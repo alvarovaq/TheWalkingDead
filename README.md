@@ -56,7 +56,7 @@ Estas van a ser tus mayores aliadas y mayores enemigas (nuestros amigos los zomb
 
 | Descripción | Munición |
 |-------------|----------|
-| Las escopetas disparan perdigones a lo largo de un pequeño rango. Suelen hacer bastante daño, en el caso de que te den todos los perdigones, por lo tanto, recibirá más daño de cerca que de lejos, que que impactarán mas perdigones. Lo retardos de recarga suelen ser muy altos. | <img src="https://user-images.githubusercontent.com/113897176/192147021-e79750f7-5543-4fd4-891b-b860889a2ebc.png" width="100px"> |
+| Las escopetas disparan perdigones a lo largo de un pequeño rango. Suelen hacer bastante daño en el caso de que te den todos los perdigones, por lo tanto, recibirá más daño de cerca que de lejos porque impactarán mas perdigones. Lo retardos de recarga suelen ser muy altos. | <img src="https://user-images.githubusercontent.com/113897176/192147021-e79750f7-5543-4fd4-891b-b860889a2ebc.png" width="100px"> |
 
 | Escopeta | Nombre | Cadencia | Daño | Distancia | Tiempo de Recarga | Capacidad Cargador |
 |--------|-------|---|---|---|---|---|
@@ -67,7 +67,7 @@ Estas van a ser tus mayores aliadas y mayores enemigas (nuestros amigos los zomb
 
 | Descripción | Munición |
 |-------------|----------|
-| Las pistolas son armas en la cual todas sus características son muy equilibradas. No se suelen caracterizar por su cadencia. Suelen probocar bastante daño.| <img src="https://user-images.githubusercontent.com/113897176/192147068-d8b687f1-2b66-43f5-915a-149483d68e44.png" width="100px"> |
+| Las pistolas son armas en la cual todas sus características están muy equilibradas. No se suelen caracterizar por su cadencia. Suelen probocar bastante daño.| <img src="https://user-images.githubusercontent.com/113897176/192147068-d8b687f1-2b66-43f5-915a-149483d68e44.png" width="100px"> |
 
 | Pistola | Nombre | Cadencia | Daño | Distancia | Tiempo de Recarga | Capacidad Cargador |
 |--------|-------|---|---|---|---|---|
@@ -89,7 +89,7 @@ Estas van a ser tus mayores aliadas y mayores enemigas (nuestros amigos los zomb
 
 | Descripción | Munición |
 |-------------|----------|
-| Los Lanzamisiles lanzan misisles que probocan un explosión de un determinado radio. Todos aquellos que se encuentren en dicho radio, recibirá daño. | <img src="https://user-images.githubusercontent.com/113897176/192147114-879ad14c-80ba-492e-b322-9857f7b1de93.png" width="100px"> |
+| Los Lanzamisiles lanzan misisles que probocan un explosión de un determinado radio. Todos aquellos que se encuentren en dicho radio, recibirán daño. | <img src="https://user-images.githubusercontent.com/113897176/192147114-879ad14c-80ba-492e-b322-9857f7b1de93.png" width="100px"> |
 
 | lanzamisil | Nombre | Cadencia | Daño | Distancia | Tiempo de Recarga | Capacidad Cargador | Radio Explosión | Daño Explosión |
 |--------|-------|---|---|---|---|---|---|---|
