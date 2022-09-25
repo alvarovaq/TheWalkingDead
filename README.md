@@ -26,14 +26,14 @@ Escoge a tu personaje favorito. Personajes con diferentes historias y carácter,
 
 ## Enemigos
 
-Estos son los que van a intentar hacer tu vida imposible. Aunque algunos paredcan inofensivos, hacen muchos daño. Huye de ellos o pelea, pero se te hará imposible no morir, da igual la estrategia que tengas.
+Estos son los que van a intentar hacer tu vida imposible. Aunque algunos paredcan inofensivos, hacen muchos daño. Da igual lo que hagas, huyas o peleés se te hará imposible no morir.
 
 | Enemigo | Nombre | Descripción | Velocidad | Daño | Visión | Vida | Escudo |
 |--------|-------|-------------|---|---|---|---|---|
 | ![zombie0](https://user-images.githubusercontent.com/113897176/192135366-d4a55113-4bc2-4b33-8654-7bbe80c64450.png) | Rotters | No son los zombis más ágiles, pero es el grupo más abundante. | 180 | 3 | 1000 | 800 | 500 |
 | ![zombie1](https://user-images.githubusercontent.com/113897176/192138596-a6c5ed66-1803-4247-9bad-a0080062a914.png) | Wasteds | Estos zombis no tienen miedo, son fuertes, rápidos y resistentes. Ten cuidado con estos. | 240 | 5 | 1200 | 1200 | 700 |
 | ![zombie2](https://user-images.githubusercontent.com/113897176/192138818-95a1aa30-84cd-4ff6-ae06-022d6e26ea6e.png) | Walkers | Usain Bolt no es nadie comparado con estos zombis. Más vale que corras, que estos te pillan. | 320 | 2 | 1000 | 800 | 500 |
-| ![zombie3](https://user-images.githubusercontent.com/113897176/192139415-58224f01-fa6e-4490-bddc-45369ff2f366.png) | Renfield | No podían faltar los vampiros en la fista. Resistentes como tanques y les encanta teletransportarse, no puedes estar tranquilo con ellos. | 200 | 7 | 1400 | 3000 | 2000 |
+| ![zombie3](https://user-images.githubusercontent.com/113897176/192139415-58224f01-fa6e-4490-bddc-45369ff2f366.png) | Renfield | No podían faltar los vampiros en la fiesta. Resistentes como tanques y les encanta teletransportarse, no puedes estar tranquilo con ellos. | 200 | 7 | 1400 | 3000 | 2000 |
 | ![zombie4](https://user-images.githubusercontent.com/113897176/192140799-09961e65-294f-4486-a387-b32506c76b88.png) | Ramses | No, no estamos en Egipto, pero las momias se han autoinvitado. Las momias te vigilan, ten cuidado, saben siempre donde estás. | 200 | 7 | 5000 | 4000 | 2000 |
 
 ## Armas
