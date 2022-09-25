@@ -5,7 +5,7 @@ Te encuentras solo en una isla desértica, en la cual gobierna el caos. Tienes c
 
 Tu misión, *SOBREVIVIR*.
 
-![Captura de pantalla 2022-09-23 000133](https://user-images.githubusercontent.com/113897176/192133454-bcbcbae5-91c5-45f5-9d48-ff057690778b.png)
+![Captura de pantalla 2022-09-23 000133](https://user-images.githubusercontent.com/113897176/192151745-60467ce2-59a9-4a07-9597-4552c70e015f.png)
 
 ## Héroes
 
@@ -136,3 +136,71 @@ Una granada eléctrica produce una explosión de rayos, en la cual, todos los qu
 |--------|---|---|---|---|---|---|
 | <img src="https://user-images.githubusercontent.com/113897176/192146020-7765fcd9-edde-4548-82ab-99cf6bbc9b2c.png" width="50px"> | 1.3 | 170 | 60 | 15 | 0.1 | 10 |
 
+### Medicamentos
+
+Los medicamentos te aumenta la vida.
+
+| Medicamento | Vida | Tiempo | Capacidad |
+|-------------|------|--------|-----------|
+| <img src="https://user-images.githubusercontent.com/113897176/192149410-ad4c9691-eb4e-436f-ab40-bf9d128cebe2.png" width="100px"> | 400 | 3 | 10 |
+
+### Pociones
+
+Las pociones te aumentan el escudo.
+
+| Pociones | Escudo | Tiempo | Capacidad |
+|-------------|------|--------|-----------|
+| <img src="https://user-images.githubusercontent.com/113897176/192149505-06d123ae-9181-4fed-9a40-a98db3412bb5.png" width="50px"> | 400 | 3 | 10 |
+| <img src="https://user-images.githubusercontent.com/113897176/192149543-bd99a0a8-6c85-4b23-afdd-5a46380a805c.png" width="50px"> | 1000 | 8 | 4 |
+
+## Controles
+
+| Tecla | Descripción |
+|-------|-------------|
+| ESC | Pause |
+| A / LEFT | Mover Izquierda |
+| D / RIGHT | Mover Derecha |
+| W / UP | Mover Arriba |
+| S / DOWN | Mover Abajo |
+| CLICK IZQ | Disparar / Golpear |
+| Q | Soltar Item |
+| R | Recargar |
+| E | Intercambiar Arma |
+| G | Estallar Granadas Adhesivas |
+| I | Inventario |
+| E | Interactuar con Objeto |
+| NUMBER / MOUSE WHEEL | Cambiar Arma |
+| M | Ver/Ocultar Mapa |
+| N | Ver/Ocultar Interfaz |
+
+## Vídeos
+
+En este apartado podeis ver algunos vídeos para que veáis el funcionamiento del juego. Os recomiendo que pongais el volumen
+
+En el siguiente vídeo podemos observar un poco la dinámica del juego, de la batalla contra los enemigos.
+
+https://user-images.githubusercontent.com/113897176/192151483-97846c81-47d8-4655-aa0b-e861a3957549.mp4
+
+En el siguiente vídeo podemos observar un poco como se puede interectuar con los distintos objetos, como los baúles o las cajas sorpresas.
+
+https://user-images.githubusercontent.com/113897176/192152223-20281af1-31b4-4fb0-b5ca-90f762ee83f3.mp4
+
+## Ejecución
+
+Para ejecutar dicho juego, es imprescindible tener instalado en el ordenador las siguientes librerías
+
+1. pygame
+
+Ejecutar el archivo *main.py*
+
+## Desarrollo
+
+Este juego ha sido desarrollado por mi mismo, inspirado por el juego ZombsRoyale y con la motivación de poder crear un juego de armas y zombis. Durante el desarroyo de este proyecto he aprendido varios conceptos de este lenguaje de programación y el desarrollo de videojuegos, que era el principal objetivo, *Aprender*.
+
+Todas las imágenes que he utilizado durante este proyecto lo he creado yo mismo utilizando el programa *Adobe Photoshop*.
+
+Para un futuro tengo pensado dar nuevas funcionalidades al juego y hacerlo más jugable, dar un objetivo concreto al juego, poniendo niveles con distintas oleadas, incorporar nuevas armas, héroes y zombis y mejorar la eficiencia del código.
+
+## Contacto
+
+Email: alvaro.vaquero.tel@gmail.com
