@@ -38,7 +38,7 @@ Estos son los que van a intentar hacer tu vida imposible. Aunque algunos paredca
 
 ## Armas
 
-Estas van a ser tus mayores aliadas y mayores enemigas (nuestros amigos los zombis también saben disparar) en la batalla. Utilizalas bien, *"Un gran poder conlleva una gran responsabilidad"*, o tal vez no. Arrasa con ellas!
+Estas van a ser tus mayores aliadas y mayores enemigas (nuestros amigos los zombis también saben disparar) en la batalla. Utilízalas bien, *"Un gran poder conlleva una gran responsabilidad"*, o tal vez no. Arrasa con ellas!
 
 ### Subfusiles
 
