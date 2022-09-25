@@ -42,6 +42,10 @@ Estas van a ser tus mayores aliadas y mayores enemigas (nuestros amigos los zomb
 
 ### Subfusiles
 
+| Descripción | Munición |
+|-------------|----------|
+| Los subfusiles son armas, que aunque no hagan mucho daño, disparan muy rápido  y el tiempo de recarga no suele ser mucho. | <img src="https://user-images.githubusercontent.com/113897176/192146883-aa1c1592-3bd9-4313-9576-d614437600d6.png" width="100px"> |
+
 | Subfusil | Nombre | Cadencia | Daño | Distancia | Tiempo de Recarga | Capacidad Cargador |
 |--------|-------|---|---|---|---|---|
 | <img src="https://user-images.githubusercontent.com/113897176/192141796-e8eea47f-903c-4691-be6f-55198716a9b2.png" width="250px"> | RRX | 0.3 | 80 | 800 | 1.7 | 15 |
@@ -50,12 +54,20 @@ Estas van a ser tus mayores aliadas y mayores enemigas (nuestros amigos los zomb
 
 ### Escopetas
 
+| Descripción | Munición |
+|-------------|----------|
+| Las escopetas disparan perdigones a lo largo de un pequeño rango. Suelen hacer bastante daño, en el caso de que te den todos los perdigones, por lo tanto, recibirá más daño de cerca que de lejos, que que impactarán mas perdigones. Lo retardos de recarga suelen ser muy altos. | <img src="https://user-images.githubusercontent.com/113897176/192147021-e79750f7-5543-4fd4-891b-b860889a2ebc.png" width="100px"> |
+
 | Escopeta | Nombre | Cadencia | Daño | Distancia | Tiempo de Recarga | Capacidad Cargador |
 |--------|-------|---|---|---|---|---|
 | <img src="https://user-images.githubusercontent.com/113897176/192142480-10983f46-ac75-46cc-8e89-2f8ae1d5c18f.png" width="250px"> | AAA | 1.1 | 700 | 600 | 3 | 2 |
 | <img src="https://user-images.githubusercontent.com/113897176/192142551-4db7d4c5-dfae-41ba-9760-2bfe75a7ee21.png" width="250px"> | JTJ | 1.7 | 900 | 650 | 4 | 4 |
 
 ### Pistolas
+
+| Descripción | Munición |
+|-------------|----------|
+| Las pistolas son armas en la cual todas sus características son muy equilibradas. No se suelen caracterizar por su cadencia. Suelen probocar bastante daño.| <img src="https://user-images.githubusercontent.com/113897176/192147068-d8b687f1-2b66-43f5-915a-149483d68e44.png" width="100px"> |
 
 | Pistola | Nombre | Cadencia | Daño | Distancia | Tiempo de Recarga | Capacidad Cargador |
 |--------|-------|---|---|---|---|---|
@@ -65,18 +77,28 @@ Estas van a ser tus mayores aliadas y mayores enemigas (nuestros amigos los zomb
 
 ### Rifles
 
+| Descripción | Munición |
+|-------------|----------|
+| Los rifles son armas que te permiten disparar desde distancias largas. El inconveniente es que la capacidad del arma es muy pequeña y el tiempo de recarga es muy larga, por lo que entre disparo y disparo pasa mucho tiempo. | <img src="https://user-images.githubusercontent.com/113897176/192147101-1c70c7ca-8a34-4290-86c0-f6df914ba7df.png" width="100px"> |
+
 | Rifle | Nombre | Cadencia | Daño | Distancia | Tiempo de Recarga | Capacidad Cargador |
 |--------|-------|---|---|---|---|---|
 | <img src="https://user-images.githubusercontent.com/113897176/192142888-70b8288a-5b9f-475c-8407-311efd5acc6c.png" width="250px"> | ETW | 0.5 | 600 | 1200 | 2.5 | 1 |
 
-### Misiles
+### Lanzamisiles
 
-| Misil | Nombre | Cadencia | Daño | Distancia | Tiempo de Recarga | Capacidad Cargador | Radio Explosión | Daño Explosión |
+| Descripción | Munición |
+|-------------|----------|
+| Los Lanzamisiles lanzan misisles que probocan un explosión de un determinado radio. Todos aquellos que se encuentren en dicho radio, recibirá daño. | <img src="https://user-images.githubusercontent.com/113897176/192147114-879ad14c-80ba-492e-b322-9857f7b1de93.png" width="100px"> |
+
+| lanzamisil | Nombre | Cadencia | Daño | Distancia | Tiempo de Recarga | Capacidad Cargador | Radio Explosión | Daño Explosión |
 |--------|-------|---|---|---|---|---|---|---|
 | <img src="https://user-images.githubusercontent.com/113897176/192143052-afee2e4b-71a8-4991-8945-95bdba09b8f4.png" width="250px"> | UUT | 0.7 | 300 | 500 | 2.5 | 1 | 120 | 15 |
 | <img src="https://user-images.githubusercontent.com/113897176/192143083-70b2f4a8-c7fa-4394-8b83-fa6e69bf915b.png" width="250px"> | HJH | 0.6 | 300 | 500 | 2.5 | 2 | 130 | 20 |
 
 ### Tasers
+
+Un taser lanza un rayo, en la cual paraliza al enemigo durante un tiempo y recibe algo de daño. La munición de estas armas es la energía del jugador.
 
 | Taser | Nombre | Cadencia | Daño | Distancia | Tiempo de Recarga | Capacidad Cargador | Número de Rayos | Tiempo de Rayo | Daño de Rayo |
 |--------|-------|---|---|---|---|---|---|---|---|
@@ -85,9 +107,32 @@ Estas van a ser tus mayores aliadas y mayores enemigas (nuestros amigos los zomb
 
 ### Granadas
 
-| Granada | Tiempo Para Explosión | Radio Explosión | Daño Explosión |
+Al lanzar una granada, al pasar un tiempo se producirá una explosión de un determinado radio. Todos los que estén dentro de ese radio recibirá daños.
+
+Para lanzar una granada hay que enfocar a la dirección el cual queremos lanzarla, presionar el `CLICK IZQ`, dejarlo pulsado durante un tiempo y posteriormente dejar de pulsar. Cuanto más tiempo esté presionado, más lejos llegará la granada.
+
+| Granada | Tiempo Para la Explosión | Radio Explosión | Daño Explosión |
 |--------|---|---|---|
 | <img src="https://user-images.githubusercontent.com/113897176/192143561-1caa4468-835e-4890-80c8-0d907ad0d4dc.png" width="50px"> | 2 | 100 | 20 |
 | <img src="https://user-images.githubusercontent.com/113897176/192143660-7368f2cd-994c-437e-b78d-42fa5c7ffad5.png" width="50px"> | 1.8 | 150 | 25 |
 | <img src="https://user-images.githubusercontent.com/113897176/192143666-732d7372-ba69-4238-a7a3-e34a13b43e1b.png" width="50px"> | 1.6 | 160 | 30 |
 | <img src="https://user-images.githubusercontent.com/113897176/192143675-a16699b6-8d4e-4133-8866-c9887aece66d.png" width="50px"> | 1.3 | 170 | 40 | 
+
+### Granada Adhesiva
+
+Las granadas Adhesivas son granadas en las cuales tienen la capacidad de adherirse a cualquier objeto, ya sea un arbol, caja o un enemigo y poder explotar todas ellas cuando el jugador presione la tecla `G`. Si se pasa el timpo de explosión y aún no ha presionado dicha tecla, la bomba estallará. Puedes aprobechar dicha arma para pegar dicha granada a un enemigo y combertirle en una bomba andante :)
+
+El mecanismo de lanzamiento es igual que las granadas normales.
+
+| Granada | Tiempo Para la Explosión | Radio Explosión | Daño Explosión |
+|--------|---|---|---|
+| <img src="https://user-images.githubusercontent.com/113897176/192145902-ed54cc0f-43f2-4b87-b25b-3cb170847a98.png" width="100px"> | 10 | 100 | 27 |
+
+### Granadas Eléctricas
+
+Una granada eléctrica produce una explosión de rayos, en la cual, todos los que se encuentre en el radio de explosión se electrocutarán, paralizándoles durante un tiempo. El mecanismo de lanzamiento es el mismo que el de las granadas.
+
+| Granada | Tiempo Para la Explosión | Radio Explosión | Daños Explosión | Número de Rayos | Tiempo de Rayo | Daño de Rayo |
+|--------|---|---|---|---|---|---|
+| <img src="https://user-images.githubusercontent.com/113897176/192146020-7765fcd9-edde-4548-82ab-99cf6bbc9b2c.png" width="50px"> | 1.3 | 170 | 60 | 15 | 0.1 | 10 |
+
