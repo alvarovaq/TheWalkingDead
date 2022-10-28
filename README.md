@@ -185,15 +185,13 @@ En el siguiente vídeo podemos observar un poco como se puede interectuar con lo
 
 https://user-images.githubusercontent.com/113897176/192152223-20281af1-31b4-4fb0-b5ca-90f762ee83f3.mp4
 
-## Ejecución
+Una de las funcinalidades del juego es electrocutar a nuestro enemigo, no le hace suficiente daño pero le paraliza durante un tiempo dandote una pequeña ventaja, en el siguiente vídeo podéis ver un ejemplo
 
-Para ejecutar dicho juego, es imprescindible tener instalado en el ordenador las siguientes librerías
-
-1. pygame
-
-Ejecutar el archivo *main.py*
+https://user-images.githubusercontent.com/113897176/198701088-c38ae63a-bb80-4898-923b-4216ff07eda6.mp4
 
 ## Desarrollo
+
+*Marzo de 2021 - 3 Meses*
 
 Este juego ha sido desarrollado por mi mismo, inspirado por el juego ZombsRoyale y con la motivación de poder crear un juego de armas y zombis. Durante el desarroyo de este proyecto he aprendido varios conceptos de este lenguaje de programación y el desarrollo de videojuegos, que era el principal objetivo, *Aprender*.
 
@@ -201,6 +199,23 @@ Todas las imágenes que he utilizado durante este proyecto lo he creado yo mismo
 
 Para un futuro tengo pensado dar nuevas funcionalidades al juego y hacerlo más jugable, dar un objetivo concreto al juego, poniendo niveles con distintas oleadas, incorporar nuevas armas, héroes y zombis y mejorar la eficiencia del código.
 
+## Paquetes
+
+*  pygame
+
+Ejecuta el siguiente comando para instalarlos
+
+`$ pip install -r requirements.txt`
+o bien
+`$ pip install pygame`
+
+Ejecuta el archivo *main.py* para iniciar el juego
+
+`$ python main.py`
+
 ## Contacto
 
-Email: alvaro.vaquero.tel@gmail.com
+* Email: alvaro.vaquero.tel@gmail.com
+* LinkedIn: https://www.linkedin.com/in/alvaro-vaquero-gimenez/
+* Twitter: https://twitter.com/AlvaroVaqGim
+* Página Web: https://alvarovaq.github.io
